@@ -7,3 +7,6 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tushar-bhawsar-04a961155/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: 80's/90's Song Lover
+## 🚀 Languages and Tools:
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
