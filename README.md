@@ -15,7 +15,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/>
 
-    ## 📊 My Github Stats
+## 📊 My Github Stats :
 
   <br/>
     <a href="https://github.com/Tusharbhawsar/github-readme-stats"><img alt="Tushar Bhawsar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tusharbhawsar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
