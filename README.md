@@ -13,6 +13,7 @@
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/>
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 
 ## 📊 My Github Stats :
 
