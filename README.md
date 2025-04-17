@@ -1,6 +1,6 @@
 ### Hi there,I am Tushar👋
 - 🌱 I’m currently learning Data Science , AI/ML & Computer Vision
-- 🔭 I’m currently working in Magnifi by Videoverse
+- 🔭 I’m currently working at Magnifi by Videoverse
 - 💬 Ask me about Ai,Machine Learning & Computer Vision
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tushar-bhawsar-04a961155/)
 ## 🚀 Languages and Tools:
